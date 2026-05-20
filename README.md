@@ -1,3 +1,3 @@
 # stop-wf
 
-stop=true
+stop=false
